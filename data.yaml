@@ -1,0 +1,6 @@
+train: E:/AICS/jonit/YOLO object detection/data/train
+val: E:/AICS/jonit/YOLO object detection/data/valid
+
+nc: 1
+
+names: ['0']
